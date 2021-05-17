@@ -1,0 +1,1 @@
+Copy-Item -path c:\posh\*.ps1 -destination C:\Users\citiz\source\repos\PowerShellScripts -Recurse 
